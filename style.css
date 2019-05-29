@@ -12,6 +12,7 @@ a {
 	clear: both;
 }
 
+/*headerに関して*/
 header{
 	width: 100%;
 	height: 70px;
@@ -35,5 +36,24 @@ header{
 	list-style: none;
 }
 .nav-list li a{
+	color: #FAFAFA;
+}
+
+/*main-visualに関して*/
+.main-visual{
+	width: 100%;
+	height: 650px;
+	text-align: center;
+	background-image: url(img/mv.png);
+	background-position: center;
+	background-size: cover;
+}
+.main-visual-title{
+	font-size: 64px;
+	color: #FAFAFA;
+	padding: 200px 0 10px 0;
+}
+.main-visual p{
+	font-size: 20px;
 	color: #FAFAFA;
 }
