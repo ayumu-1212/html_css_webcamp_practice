@@ -248,3 +248,16 @@ header{
 	font-size: 50px;
 	margin-left: 20px;
 }
+
+/*footerに関して*/
+footer{
+	height: 60px;
+	width: 100%;
+	background-color: #EC715F;
+	text-align: center;
+}
+footer span{
+	font-size: 16px;
+	color: #FAFAFA;
+	line-height: 60px;
+}
