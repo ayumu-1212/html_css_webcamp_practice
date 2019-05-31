@@ -211,6 +211,9 @@ header{
 	font-size: 20px;
 	padding-bottom: 5px;
 }
+.contact-content-box a{
+	color: #000000
+}
 .contact-social i{
 	float: left;
 	font-size: 50px;
@@ -228,4 +231,9 @@ footer span{
 	font-size: 16px;
 	color: #FAFAFA;
 	line-height: 60px;
+}
+
+/*レスポンシブ対応に関して*/
+@media screen and (max-width: 767px){
+
 }
